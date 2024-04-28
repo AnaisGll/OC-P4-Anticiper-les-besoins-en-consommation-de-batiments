@@ -7,3 +7,7 @@ Grâce aux relevés effectués en 2016 par les agents de la ville, l'objectif da
 
 Le jeu de données se compose de 46 colonnes et 3376 lignes. Les colonnes comprennent des informations sur l'identification des bâtiments, leur année de construction ou de rénovation, leur localisation, leur type d'utilisation et leur consommation d'énergie/émission de gaz. 
   
+Les livrables sont :
+- Un notebook de l'analyse exploratoire mis au propre et annoté.
+- Un notebook pour chaque prédiction (émissions de CO2 et consommation totale d’énergie) des différents tests de modèles mis au propre, dans lequel le modèle final choisi est clairement identifié.
+- Un support de présentation
